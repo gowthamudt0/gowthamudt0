@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Full stack development with MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gowthamudt0/my-portfolio](https://github.com/gowthamudt0/my-portfolio)
+- 👨‍💻 Contact_App are available at [https://github.com/gowthamudt0/my-portfolio](https://gowthamcontactapp.netlify.app)
+- 👨‍💻 Bad_Bank_Application are available at [https://github.com/gowthamudt0/my-portfolio](https://inspiring-sawine-51b9c7.netlify.app))
 
 - 📫 How to reach me **gowthamudt0@gmail.com**
 
